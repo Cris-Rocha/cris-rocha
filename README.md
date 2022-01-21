@@ -41,7 +41,6 @@
   <img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
   
-    ##
  
 <div align="center"> 
   <a href="https://instagram.com/crisrotcha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
