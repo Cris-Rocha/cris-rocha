@@ -19,7 +19,7 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-<!--  Outro GIF muito legal, ainda vou descobrir como colocar ele no meu gitHub
+<!--  
 <div style="width:100%;height:0;padding-bottom:124%;position:relative;"><iframe src="https://giphy.com/embed/2A60kHU0hVi6EddkI7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/technology-trapbob-2A60kHU0hVi6EddkI7">via GIPHY</a></p> -->
 
 
