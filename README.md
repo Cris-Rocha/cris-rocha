@@ -30,7 +30,7 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris-Rocha&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
-  <br>
+
   <br>
   
   <div align="center" style="display: inline_block"><br>
@@ -43,15 +43,8 @@
   <img align="center" alt="Cris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
- 
-  <br>
-  <!--
-  ![Snake animation] https://github.com/Cris-Rocha/cris-rocha/blob/main/.github/workflows/cobrinha.yml 
   
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
-  <br>
-  
+  ![Snake animation](https://github.com/Cris-Rocha/cris-rocha/blob/output/github-contribution-grid-snake.svg)  
  
 <div align="center"> 
   <a href="https://instagram.com/crisrotcha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
