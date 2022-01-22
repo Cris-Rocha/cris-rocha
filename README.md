@@ -45,7 +45,11 @@
 </div>
  
   <br>
-  https://github.com/Cris-Rocha/cris-rocha/blob/main/.github/workflows/cobrinha.yml 
+  <!--
+  ![Snake animation] https://github.com/Cris-Rocha/cris-rocha/blob/main/.github/workflows/cobrinha.yml 
+  
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
   <br>
   
  
