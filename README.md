@@ -4,13 +4,13 @@
 
 💡 I am currently a Web Development student at @MigraCode Barcelona <br>
 🌟 And just started to be part of the @CodeWomen project <br>
-🌻 Also learning Spanish <br>
+🌻 Also learning Spanish and improving English language skills<br>
 📍 Recently moved to Barcelona - Spain <br>
 🛰️ In carreer transition, customer service background <br>
 
-✨ Some funny facts about me:
+✨ Other facts about me:
 
-💃🏽 I love dance and art <br>
+💃🏽 I love art in general <br>
 🎨 I adore to draw, sometimes I paint mandalas on wood and create craftwork <br>
 🙈 Dog lover but I would like to adopt a cat <br>
 🦜 From Brazil to learn more about the world <br>
