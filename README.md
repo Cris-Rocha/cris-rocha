@@ -25,8 +25,8 @@
 
 <div align="center">
   <a href="https://github.com/Cris-Rocha">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Cris-Rocha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris-Rocha&layout=compact&langs_count=8&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cris-Rocha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris-Rocha&layout=compact&langs_count=8&theme=synthwave"/>
   <!--<img height="155em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cris-Rocha&langs_count=8)/>  Hidded -->
     </div>
   
