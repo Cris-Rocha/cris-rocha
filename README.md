@@ -10,9 +10,9 @@
 
 ✨ Other facts about me:
 
-💃🏽 I love art in general <br>
-🎨 I adore to draw, sometimes I paint mandalas on wood and create craftwork <br>
-🙈 Dog lover but I would like to adopt a cat <br>
+💃🏽 I love art in general, love yoga, ATS and tribal fusion dances <br>
+🎨 I adore to draw, sometimes I paint mandalas on wood and create different things craftwork <br>
+🙈 Buddy of a Cat <br>
 🦜 From Brazil to learn more about the world <br>
 
 <p align="center">
