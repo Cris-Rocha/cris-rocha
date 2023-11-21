@@ -13,7 +13,9 @@
 💃🏽 I love art in general, love yoga, ATS and tribal fusion dances <br>
 🎨 I adore to draw, sometimes I paint mandalas on wood and create different things craftwork <br>
 🙈 Buddy of a Cat <br>
-🦜 From Brazil to learn more about the world <br>
+🦜 From Brazil to learn more about the world <be>
+
+#Portfolio under construction: https://migracode-barcelona.github.io/your-portfolio-Cris-Rocha/
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
