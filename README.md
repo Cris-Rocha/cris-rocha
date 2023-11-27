@@ -6,16 +6,16 @@
 🌟 And just started to be part of the @CodeWomen project <br>
 🌻 Also learning Spanish and improving English language skills<br>
 📍 Recently moved to Barcelona - Spain <br>
-🛰️ In carreer transition, customer service background <br>
+🛰️ In career transition, customer service background <br>
 
 ✨ Other facts about me:
 
-💃🏽 I love art in general, love yoga, ATS and tribal fusion dances <br>
+💃🏽 I love art in general, love yoga, ATS, and tribal fusion dances <br>
 🎨 I adore to draw, sometimes I paint mandalas on wood and create different things craftwork <br>
 🙈 Buddy of a Cat <br>
 🦜 From Brazil to learn more about the world <be>
 
-#Portfolio under construction: https://migracode-barcelona.github.io/your-portfolio-Cris-Rocha/
+#Portfolio under construction: https://cris-rocha.github.io/Cris-Rocha-portolio/
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
