@@ -15,7 +15,8 @@
 🙈 Buddy of a Cat <br>
 🦜 From Brazil to learn more about the world <be>
 
-#Portfolio under construction: https://cris-rocha.github.io/Cris-Rocha-portolio/
+#Portfolio under construction: https://cris-rocha.github.io/Cris-Rocha-portfolio/
+
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
